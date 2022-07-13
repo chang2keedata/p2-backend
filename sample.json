@@ -10,16 +10,10 @@
     "opening_hours": "By appointment basis on Sat & Sun (Between 9AM-6PM)",
     "activity": [{
         "name": "Rent a waterbike for 1h",
-        "difficulty": "easy",
-        "act_id": {
-            "$oid": "62ca9575953dcd0d92790bb9"
-        }
+        "difficulty": "easy"
     }, {
         "name": "Rent a waterbike for 2h",
-        "difficulty": "easy",
-        "act_id": {
-            "$oid": "62ca9435953dcd0d92790bb3"
-        }
+        "difficulty": "easy"
     }],
     "tags": ["water", "riding"],
     "cost_desc": "$30/pax (first hour), additional $20 for every subsequent hour",
